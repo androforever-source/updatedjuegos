@@ -1,0 +1,11 @@
+{
+  "show": true,
+  "version_name": "3.45.47",
+  "force_update": false,
+  "title": "Nueva Actualización Disponible!",
+  "message": "Actualiza la última versión para disfrutar de las nuevas funciones y mejoras.",
+  "button_text": "ACTUALIZAR AHORA",
+  "cancel_button_text": "CERRAR",
+  "action_url": "https://androforever.com/merge-master-mod-apk/",
+  "theme": "dark"
+}
