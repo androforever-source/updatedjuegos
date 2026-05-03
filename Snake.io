@@ -1,11 +1,11 @@
 {
   "show": true,
-  "version_name": "2.2.137",
+  "version_name": "2.2.142",
   "force_update": false,
   "title": "Nueva Actualización Disponible!",
   "message": "Actualiza la última versión para disfrutar de las nuevas funciones y mejoras.",
   "button_text": "ACTUALIZAR AHORA",
   "cancel_button_text": "CERRAR",
-  "action_url": "https://androforever.com/snake-io-mod-apk/",
+  "action_url": "https://bit.ly/3Qhe0bH",
   "theme": "dark"
 }
