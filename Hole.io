@@ -1,6 +1,6 @@
 {
   "show": true,
-  "version_name": "2.47.3",
+  "version_name": "2.48.4",
   "force_update": false,
   "title": "Nueva Actualización Disponible!",
   "message": "Actualiza la última versión para disfrutar de las nuevas funciones y mejoras.",
