@@ -1,6 +1,6 @@
 {
   "show": true,
-  "version_name": "2.2.164",
+  "version_name": "2.2.166",
   "force_update": false,
   "title": "Nueva Actualización Disponible!",
   "message": "Actualiza la última versión para disfrutar de las nuevas funciones y mejoras.",
